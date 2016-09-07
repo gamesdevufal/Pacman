@@ -1,0 +1,19 @@
+; map with 62 x 37
+ooooooooooooooooooooooooooooooo
+ P . . . . . . . . . . . . . *
+oooo# #ooooooo# #ooooooooooo# I
+    I.I       I I           I I
+    I.I      ## ##    #ooooo# I
+    I*I      I G I    I. . . .I
+    I.I      #ooo#    I #oooooo
+    I.I               I I
+oooo# #ooooooooooooooo# #oooooo
+  Y
+o# #oooooooooooooooooooooooo# I
+ I I                        I I
+ I I                        I I
+ I I    #ooooooooooooooooooo# I
+ I I    I G                   I
+ I I    #ooooooooooooooooooooo#
+ #o#
+
